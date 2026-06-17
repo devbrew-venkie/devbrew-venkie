@@ -1,72 +1,118 @@
-<h1 align="center">Hi 👋, I'm Ediga Venkatesh Gowd</h1>
-<h3 align="center">Software Development Engineer | Full Stack Developer | AI Enthusiast</h3>
+<div align="center">
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Ediga%20Venkatesh%20Gowd&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Software%20Development%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlign=50&descAlignY=65" width="100%"/>
+
+<a href="https://www.linkedin.com/in/edigavenkateshgowd/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:edigavenkateshgowda@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=devbrew-venkie&style=for-the-badge&color=2c5364" alt="profile views"/>
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="55%" valign="top">
 
 ### 🚀 About Me
 
-💻 Software Development Engineer
+```yaml
+engineer: Ediga Venkatesh Gowd
+role: Software Development Engineer
+focus: Full Stack Development
+currently_learning:
+  - System Design
+  - Cloud Computing
+  - AI & Machine Learning
+interested_in:
+  - Backend Engineering
+  - Scalable Applications
+  - Open Source
+fun_fact: "Ships code one commit at a time 🚀"
+```
 
-🌱 Currently Learning:
-- System Design
-- Cloud Computing
-- AI & Machine Learning
+📫 **Reach me:** edigavenkateshgowda@gmail.com
 
-🔥 Interested In:
-- Full Stack Development
-- Backend Engineering
-- Open Source
-- Scalable Applications
+</td>
+<td width="45%" valign="top">
 
-📫 Reach Me:
-**edigavenkateshgowda@gmail.com**
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%"/>
 
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/edigavenkateshgowd/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:edigavenkateshgowda@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🛠️ Tech Stack
 
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
 
 ---
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=devbrew-venkie&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=devbrew-venkie&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=devbrew-venkie&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devbrew-venkie&theme=tokyonight&hide_border=true" height="165"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devbrew-venkie&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbrew-venkie&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devbrew-venkie&theme=tokyo-night&hide_border=true" width="95%"/>
+
+</div>
 
 ---
 
 ### 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=devbrew-venkie&theme=onedark)
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=devbrew-venkie&theme=onedark&no-frame=true&row=1&column=7"/>
+
+</div>
 
 ---
 
+### 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/edigavenkateshgowd/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:edigavenkateshgowda@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/devbrew-venkie"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</div>
+
+---
+
+<div align="center">
+
 ### ⚡ Quote
 
-"Building solutions one commit at a time."
+<i>"Building solutions one commit at a time."</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+
+</div>
