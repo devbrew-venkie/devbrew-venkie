@@ -2,6 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Ediga%20Venkatesh%20Gowd&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Software%20Development%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlign=50&descAlignY=65" width="100%"/>
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Venkatesh+%F0%9F%91%8B;Full+Stack+Developer;Building+Scalable+Web+%26+AI+Apps;Always+Learning%2C+Always+Shipping" alt="Typing SVG"/>
+</a>
+
+<br/>
+
 <a href="https://www.linkedin.com/in/edigavenkateshgowd/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -82,6 +88,18 @@ fun_fact: "Ships code one commit at a time 🚀"
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=devbrew-venkie&theme=tokyo-night&hide_border=true" width="95%"/>
 
 </div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/devbrew-venkie/devbrew-venkie/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+
+</div>
+
+> ⚙️ Generated automatically by the snake workflow below — runs daily via GitHub Actions.
 
 ---
 
